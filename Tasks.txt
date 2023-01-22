@@ -1,3 +1,14 @@
-pkit https://about.gitlab.com/press/press-kit/
+press:
+/media/daniella/B/git/Floflis/Sites/Floflis.github.io/press/press-kit/img and /media/daniella/B/git/Floflis/Sites/Floflis.github.io/press/press-kit/img/reused with the SVG version of files
+use responsive grids (as in https://daemonite.github.io/material/docs/4.1/layout/grid/) in items
+
+use small-ball logotypes, with SVG
+
+footer:
+up-to-date FMWK badge
+fix gitlab icon
+fix aragon plasmmer link
+
+INSP pkit https://about.gitlab.com/press/press-kit/
 
 deploy all git sites in own sv; so LFS files (such as Presentation.pptx) will be supported.
