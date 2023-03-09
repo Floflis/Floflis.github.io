@@ -1,7 +1,10 @@
+first tease the OS, +html5appsplatform
+downloads page: OS, HTML5Apps Platform
+
 footer:
 up-to-date FMWK badge
 fix aragon plasmmer link
 
 INSP pkit https://about.gitlab.com/press/press-kit/
 
-deploy all git sites in own sv; so LFS files (such as Presentation.pptx) will be supported.
+[REQUIRES FINANCIAL RECOVERY AND FLOFLIS OWN REVENUE] deploy all git sites in own sv; so LFS files (such as Presentation.pptx) will be supported.
