@@ -15,8 +15,10 @@ background:#e3e2e2!important
     padding: 0 0px 9px 120px !important;
     line-height: 41px !important;
     top: 1px !important;
-    color: #333 !important
+    color:#333!important
 }
+
+header nav ul li p{color:#333!important}
 
 ::selection {
     background: #feec00!important;
