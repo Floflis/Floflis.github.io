@@ -4,15 +4,18 @@ background:#e3e2e2!important
 }
 
 .header, header {
-    background: #000!important;
+    background: #f6ca38!important;
 }
 
 .logo,logo {
-    background: url(../icon.ico) no-repeat no-repeat 3px 0px;
-    background-size: 38px;
-    color: #fff!important;
-    padding: 0 0px 9px 52px;
-    line-height: 36px;
+    width: 315px !important;
+    background: url(./press/press-kit/img/logotype_colored.svg) no-repeat no-repeat 1px 4px !important;
+    background-size: auto;
+    background-size: auto;
+    background-size: 120px !important;
+    padding: 0 0px 9px 120px !important;
+    line-height: 41px !important;
+    top: 1px !important;
 }
 
 ::selection {
