@@ -11,12 +11,11 @@ background:#e3e2e2!important
     width: 315px !important;
     background: url(./press/press-kit/img/logotype_colored.svg) no-repeat no-repeat 1px 4px !important;
     background-size: auto;
-    background-size: auto;
     background-size: 120px !important;
     padding: 0 0px 9px 120px !important;
     line-height: 41px !important;
     top: 1px !important;
-    color: #333
+    color: #333 !important
 }
 
 ::selection {
