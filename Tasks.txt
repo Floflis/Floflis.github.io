@@ -1,6 +1,11 @@
 first tease the OS, +html5appsplatform
 downloads page: OS, HTML5Apps Platform
 
+both Platform and OS: 3 tabs: "For you" / "For nerds" / "GM" https://daemonite.github.io/material/docs/4.1/components/scrollspy/#example-with-nested-nav
+- "For You 🥰": Explore menu, other familiar stuff
+- "For Nerds 🤓": Rust (Starship, Nushell)
+- "GM 🌻": Create/Join DAOs, sell/display NFTs, system-wide Wallet
+
 footer:
 up-to-date FMWK badge
 fix aragon plasmmer link
