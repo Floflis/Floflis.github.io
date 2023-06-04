@@ -1,3 +1,5 @@
+Gitcoin social icon@footer https://www.gitbook.com/cdn-cgi/image/width=40,dpr=2,height=40,fit=contain,format=auto/https%3A%2F%2F315315702-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FHyhSiCXoxRpn79voKZ4f%252Ficon%252Ftsbmu8bKGwzR1T2tAfpE%252Fgitcoin.webp%3Falt%3Dmedia%26token%3Dc3b7fe37-536d-4302-860e-1237eaff73d3
+
 Shell and Prompt imgs: caption about illustrative imgs, not real from Floflis
 
 first tease the OS, +html5appsplatform
