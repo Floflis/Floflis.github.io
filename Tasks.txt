@@ -17,6 +17,12 @@ both Platform and OS: 3 tabs: "For you" / "For nerds" / "GM" https://daemonite.g
 - "For Nerds 🤓": Rust (Starship, Nushell)
 - "GM 🌻": Create/Join DAOs, sell/display NFTs, system-wide Wallet
 
+insp floflis os footer tree + floflis platform slideshow:
+https://developers.plasmmer.com/
+https://floflis.com/
+https://developers.plasmmer.com/EveryoneCan/
+https://floflis.com/os/
+
 footer:
 up-to-date FMWK badge
 fix aragon plasmmer link
