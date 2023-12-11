@@ -1,11 +1,14 @@
 AI-first, Web3-first, Rust-first: THE FUTURE-FIRST OS.
 
+insp floflis os footer tree + floflis platform slideshow:
+https://developers.plasmmer.com/ -> https://floflis.com/
+https://developers.plasmmer.com/EveryoneCan/ -> https://floflis.com/os/
+
 decrease floflis platform icon; plain version
 
-- ./spotlight-familiar
-- video-GIF abt Explore, taskbar Task Manager, showDesktop btn (Ubiquity need to show same video)
+- ./spotlight-familiar: video-GIF abt Explore, taskbar Task Manager, showDesktop btn (Ubiquity need to show same video)
 
-Gitcoin social icon@footer https://www.gitbook.com/cdn-cgi/image/width=40,dpr=2,height=40,fit=contain,format=auto/https%3A%2F%2F315315702-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FHyhSiCXoxRpn79voKZ4f%252Ficon%252Ftsbmu8bKGwzR1T2tAfpE%252Fgitcoin.webp%3Falt%3Dmedia%26token%3Dc3b7fe37-536d-4302-860e-1237eaff73d3
+Gitcoin social icon@footer (but first update our Gitcoin profile/grant) https://www.gitbook.com/cdn-cgi/image/width=40,dpr=2,height=40,fit=contain,format=auto/https%3A%2F%2F315315702-files.gitbook.io%2F~%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FHyhSiCXoxRpn79voKZ4f%252Ficon%252Ftsbmu8bKGwzR1T2tAfpE%252Fgitcoin.webp%3Falt%3Dmedia%26token%3Dc3b7fe37-536d-4302-860e-1237eaff73d3
 
 Shell and Prompt imgs: caption about illustrative imgs, not real from Floflis
 
@@ -16,12 +19,6 @@ both Platform and OS: 3 tabs: "For you" / "For nerds" / "GM" https://daemonite.g
 - "For You 🥰": Explore menu, Taskbar, other familiar stuff
 - "For Nerds 🤓": Rust (Starship, Nushell)
 - "GM 🌻": Create/Join DAOs, sell/display NFTs, system-wide Wallet
-
-insp floflis os footer tree + floflis platform slideshow:
-https://developers.plasmmer.com/
-https://floflis.com/
-https://developers.plasmmer.com/EveryoneCan/
-https://floflis.com/os/
 
 footer:
 up-to-date FMWK badge
