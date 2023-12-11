@@ -1,5 +1,3 @@
-AI-first, Web3-first, Rust-first: THE FUTURE-FIRST OS.
-
 insp floflis os footer tree + floflis platform slideshow:
 https://developers.plasmmer.com/ -> https://floflis.com/
 https://developers.plasmmer.com/EveryoneCan/ -> https://floflis.com/os/
